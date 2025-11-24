@@ -1,0 +1,38 @@
+[
+  {
+    "policy_id": "POL-2024-001",
+    "name": "Q1 New Year Stability",
+    "start_date": "2024-01-01",
+    "end_date": "2024-01-14",
+    "market_trigger": "Stable Rates",
+    "focus_phrases": ["fresh start", "financial health", "consolidate debt"],
+    "compliance_phrases": ["NMLS #12345", "Equal Housing Lender"]
+  },
+  {
+    "policy_id": "POL-2024-002",
+    "name": "Q1 Rate Spike Pivot",
+    "start_date": "2024-01-15",
+    "end_date": "2024-01-31",
+    "market_trigger": "Rate Hike (+0.5%)",
+    "focus_phrases": ["lock it in", "don't wait", "rate protection"],
+    "compliance_phrases": ["NMLS #12345", "Equal Housing Lender"]
+  },
+  {
+    "policy_id": "POL-2024-003",
+    "name": "Q1 Pre-Spring Aggression",
+    "start_date": "2024-02-01",
+    "end_date": "2024-02-28",
+    "market_trigger": "Competitor Price War",
+    "focus_phrases": ["beat your bank", "10-day close", "no lender fees"],
+    "compliance_phrases": ["NMLS #12345", "Equal Housing Lender"]
+  },
+  {
+    "policy_id": "POL-2024-004",
+    "name": "Q2 Standard Operating Procedure",
+    "start_date": "2024-03-01",
+    "end_date": "2024-05-30",
+    "market_trigger": "Market Normalization",
+    "focus_phrases": ["local expert", "salary-based", "guide you home"],
+    "compliance_phrases": ["NMLS #12345", "Equal Housing Lender"]
+  }
+]
